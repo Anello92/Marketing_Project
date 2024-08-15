@@ -1,4 +1,5 @@
 # Complete Marketing Analysis Project - 56 Steps to Actionable Insights
+Medium: https://medium.com/p/20c0ce995f1b/edit
 
 ## Overview
 
